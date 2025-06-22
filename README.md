@@ -5,6 +5,11 @@ A customizable AppBar for Flutter that auto-switches titles with slide animation
 created by Abdul Ashif
 any quiries try to reach out ....
 
+### Appbar Preview
+
+![AppBar Preview](https://raw.githubusercontent.com/abdulashifaachu/Animated-AppBar/main/assets/demo%20appabar%20view.gif)
+
+
 ## Features
 
 - Slide down old title
