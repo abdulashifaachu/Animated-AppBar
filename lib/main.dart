@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'widgets/animated_app_bar.dart';
-
+ 
 void main() {
   runApp(const MyApp());
 }
