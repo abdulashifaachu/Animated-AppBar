@@ -1,5 +1,8 @@
 name: animated_app_bar
-description: "A new Flutter project."
+description: "Animated AppBar."
+homepage: https://github.com/abdulashifaachu/Animated-AppBar
+repository: https://github.com/abdulashifaachu
+issue_tracker: https://github.com/abdulashifaachu/Animated-AppBar/issues
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
