@@ -101,3 +101,4 @@ class _AnimatedTitleAppBarState extends State<AnimatedTitleAppBar> {
     );
   }
 }
+# Animated-AppBar
